@@ -1,0 +1,16 @@
+Index: Sample2.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\nHiii\nThis is another sample file!\nHello, How are you!\nToken to push into github: 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\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Sample2.txt b/Sample2.txt
+--- a/Sample2.txt	(revision c16314bf046f3ffc6484cf9b4f6eeef9ffde3a55)
++++ b/Sample2.txt	(date 1713333471685)
+@@ -3,3 +3,4 @@
+ This is another sample file!
+ Hello, How are you!
+ Token to push into github: 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
++hi
+\ No newline at end of file
